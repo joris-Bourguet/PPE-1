@@ -1,0 +1,1 @@
+sass --watch clean-blog.scss:../css/clean-blog.css
